@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://c.tenor.com/8BCQtGtI6Y4AAAAC/rick-and-morty-virus.gif">
+<img align="right" width="200px" style="margin-top:-20px" src="https://c.tenor.com/8BCQtGtI6Y4AAAAC/rick-and-morty-virus.gif">
 
 </br>
 </br>
@@ -28,7 +28,7 @@
 Tenho 22 anos, sou fascinado por tudo que envolve o universo da tecnologia, tenho conhecimento solido em redes e protocolos, conhecimento em algumas linguagens de programação, dev autônomo react-native desenvolvendo alguns projetos!
 
 <p align="center">
-  <img src="https://capricho.abril.com.br/wp-content/uploads/2020/03/1.gif" width="350">
+  <img src="https://capricho.abril.com.br/wp-content/uploads/2020/03/1.gif" width="300">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
