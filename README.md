@@ -1,4 +1,4 @@
-<img align="right" width="200px" src="https://c.tenor.com/8BCQtGtI6Y4AAAAC/rick-and-morty-virus.gif">
+<img align="right"  style="margin-top:-20px" width="200px" src="https://c.tenor.com/8BCQtGtI6Y4AAAAC/rick-and-morty-virus.gif">
 
 </br>
 </br>
