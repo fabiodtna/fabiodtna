@@ -23,7 +23,7 @@
 
 ## I'm F4bio H
 
-Tenho 22 anos, sou fascinado por tudo que envolve o universo da tecnologia, Comecei a estudar a área de tecnologia logo após terminar o curso técnico que foram experiências incríveis que ensinaram-me muito antes do curso a tecnologia era um hobby, tinha um breve conhecimento em algumas linguagem de programação passava tempo consertando alguns equipamentos como computadores celulares mas nada profissional. tenho conhecimento solido em redes e protocolos, conhecimento em algumas linguagens de programação e estudo um pouco sobre seginfo.
+Tenho 22 anos, sou fascinado por tudo que envolve o universo da tecnologia, Comecei a estudar a área de tecnologia logo após terminar o curso técnico que foram experiências incríveis que ensinaram-me muito antes do curso a tecnologia era um hobby, tinha um breve conhecimento em algumas linguagem de programação passava tempo consertando alguns equipamentos como computadores celulares mas nada profissional. hoje em dia estudoalgumas linguagens de programação um pouco sobre seginfo.
 
 <p align="center">
   <img src="https://capricho.abril.com.br/wp-content/uploads/2020/03/1.gif" width="300">
