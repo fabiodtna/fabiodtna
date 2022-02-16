@@ -7,12 +7,12 @@
  
  <h1 align="left">Hello there!</h1>
 
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+  <a href="https://www.linkedin.com/in/fabio-gr-240b25184/">
     <img width="80px" src="https://logosmarcas.net/wp-content/uploads/2020/03/LinkedIn-Emblema.png" alt="linkedin" style="vertical-align:top;">
   </a>
   
-   <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="60px" src="https://tryhackme.com/img/favicon.png" alt="linkedin" style="vertical-align:top;">
+   <a href="https://tryhackme.com/p/GhostSans">
+    <img width="60px" src="https://tryhackme.com/img/favicon.png" alt="tryhackme" style="vertical-align:top;">
   </a>
 </div>
 
