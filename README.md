@@ -1,7 +1,5 @@
 <img align="right"  style="margin-top:-20px" width="200px" src="https://c.tenor.com/8BCQtGtI6Y4AAAAC/rick-and-morty-virus.gif">
 
-</br>
-</br>
 
 <div dsplay="inline-block">
  
