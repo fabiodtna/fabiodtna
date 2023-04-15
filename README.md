@@ -23,6 +23,10 @@
 
 ## I'm F4bio H
 
+Olá, meu nome é Fábio, sou um programador com experiência em segurança da informação e habilidades em hardware. Tenho experiência em desenvolver soluções de software e hardware personalizadas, e também sou capaz de realizar análises de segurança para empresas e indivíduos.
+
+Ao longo da minha carreira, eu adquiri habilidades em diversas linguagens de programação, incluindo React, C, C++ e outras. Também possuo conhecimentos em sistemas operacionais Linux e Windows, e tenho experiência em redes e protocolos de internet.
+
 <p align="center">
   <img src="https://capricho.abril.com.br/wp-content/uploads/2020/03/1.gif" width="300">
 </p>
