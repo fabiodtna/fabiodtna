@@ -23,7 +23,7 @@
 
 ## I'm F4bio H
 
-Olá, meu nome é Fábio, sou programador Full-Stack com experiência em segurança da informação. Tenho experiência em desenvolver soluções de software e hardware personalizadas, e também realizo análise de segurança para empresas e indivíduos.
+Olá, meu nome é Fábio, sou programador Full-Stack com experiência em segurança da informação. Tenho experiência em desenvolver soluções de software e hardware personalizadas de acordo com o cliente, e também realizo análise de segurança para empresas e indivíduos.
 
 Ao longo da minha carreira, eu adquiri habilidades em diversas linguagens de programação, incluindo React, C, C++ e outras. Também possuo conhecimentos em sistemas operacionais Linux e Windows, e tenho experiência em redes e protocolos de internet.
 
