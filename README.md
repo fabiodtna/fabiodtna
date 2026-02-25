@@ -1,3 +1,40 @@
+Olá! Meu nome é **Fábio** e sou **programador Full-Stack**. Já fiz diversos projetos **freelancer**, criando soluções de software e hardware de acordo com as necessidades dos clientes.  
+
+Tenho experiência com linguagens como:  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> React</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native"/> React Native</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> C</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/> C++</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP"/> PHP</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> JavaScript</code>  
+
+Além disso, tenho conhecimento em:  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/> Linux</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows"/> Windows</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Redes e Protocolos"/> Redes e Protocolos</code>  
+<code><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Cloud Computing"/> Cloud Computing</code>  
+
+Atualmente, estou me dedicando totalmente à área de tecnologia, cursando **Ciência da Computação** e realizando algumas **certificações** para me aprimorar ainda mais.  
+
+Gosto de colocar meus conhecimentos em prática, experimentar novas tecnologias e criar projetos de qualidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img align="right" style="margin-top:-20px" width="200px" src="https://c.tenor.com/8BCQtGtI6Y4AAAAC/rick-and-morty-virus.gif">
 
 # Hello there! 👋
@@ -16,13 +53,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Fábio H**, programador Full-Stack com interesse em **segurança da informação**. Desenvolvo soluções de software e hardware personalizadas e também realizo análises de segurança para empresas e indivíduos.  
+Olá! Meu nome é Fábio e sou programador Full-Stack. Já fiz diversos projetos freelancer, criando soluções de software e hardware de acordo com as necessidades dos clientes. Tenho experiência com React, React Native, C, C++, PHP, JavaScript e outras linguagens, além de ter conhecimento em Linux, Windows, redes, protocolos e Cloud Computing.
 
-Ao longo da minha carreira, adquiri experiência com:
-
-- Linguagens: React, C, C++, PHP, JavaScript, C#  
-- Sistemas operacionais: Linux, Windows  
-- Redes, protocolos e segurança  
+Atualmente, estou me dedicando totalmente à área de tecnologia, cursando Ciência da Computação e realizando algumas certificações para me aprimorar ainda mais. Gosto de colocar meus conhecimentos em prática, experimentar novas tecnologias e criar projetos de qualidade.
 
 <p align="center">
   <img src="https://capricho.abril.com.br/wp-content/uploads/2020/03/1.gif" width="300">
