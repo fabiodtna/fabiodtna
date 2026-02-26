@@ -18,7 +18,7 @@
 
 Olá! Meu nome é Fábio e sou programador Full-Stack. Já fiz diversos projetos freelancer, criando soluções de software e hardware de acordo com as necessidades dos clientes. Tenho experiência com React, React Native, C, C++, PHP, JavaScript e outras linguagens, além de ter conhecimento em Linux, Windows, redes, protocolos e Cloud Computing.
 
-Atualmente, estou me dedicando totalmente à área de tecnologia, cursando Ciência da Computação e realizando algumas certificações para me aprimorar ainda mais. Gosto de colocar meus conhecimentos em prática, experimentar novas tecnologias e criar projetos de qualidade.
+Atualmente, estou me dedicando à área de tecnologia, cursando Ciência da Computação e realizando algumas certificações para me aprimorar ainda mais. Gosto de colocar meus conhecimentos em prática, experimentar novas tecnologias e criar projetos de qualidade.
 
 <p align="center">
   <img src="https://capricho.abril.com.br/wp-content/uploads/2020/03/1.gif" width="300">
